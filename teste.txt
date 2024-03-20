@@ -1,0 +1,24 @@
+Dia 20 Aula POO 
+
+Anotações:
+
+
+Form2
+
+this <-- Referencia ao objeto corrente -->
+this.hide <-- Esconde -->
+form1 tela = new form1(); <-- Faz a tela nova ser o form1, basicamente levando para a tela para o form1 -->
+tela.Show(); <-- Mostra a tela (form1) -->
+
+
+Form1
+
+<-- Colocar um botão -->
+this.hide <-- Fecha/Esconde a tela -->
+form2 tela1 = new form2(); <-- passa para a a tela 2 -->
+tela1.Show(); <-- mostra a tela 2 (Necessário haver um button ou alguma coisa para efetuar a tarefa) -->
+
+
+Anotações extras:
+
+Application.Exit(); ..
